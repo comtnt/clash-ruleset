@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,chatgpt.com
   # payment
   - DOMAIN-SUFFIX,stripe.com
   # register
